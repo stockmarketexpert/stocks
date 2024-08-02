@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="207px" height="213px" viewBox="0 0 207 213" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>smile</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="smile" fill="#FFFFFF">
+            <path d="M5,152 C24.8125,152 45.5507812,182.427734 104,182.427734 C162.449219,182.427734 185.621094,152 203,152 C220.378906,152 167.859375,212.855469 104,212.855469 C40.140625,212.855469 -14.8125,152 5,152 Z" id="Rectangle"></path>
+            <rect id="Rectangle" x="21" y="0" width="39" height="66" rx="19.5"></rect>
+            <rect id="Rectangle" x="148" y="0" width="39" height="66" rx="19.5"></rect>
+        </g>
+    </g>
+</svg>
